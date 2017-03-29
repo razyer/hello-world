@@ -1,4 +1,5 @@
 # hello-world
 My first repository on Github !
 
-setp 1: commit test
+step 1: commit test
+step 2: create new branch and edit
