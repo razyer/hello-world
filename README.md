@@ -6,3 +6,5 @@ My first repository on Github !
 
 1. commit from IntelliJ IDEA
 2. commit two
+
+** create a develop branch and add some change
